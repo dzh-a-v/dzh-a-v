@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-It's my new account so it's quite empty for now ;)
+It's my new account so it's quite empty for now ;) I'm transferring here all my repositories
 
 <!--
 **dzh-a-v/dzh-a-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
