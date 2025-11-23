@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+It's my new account so it's quite empty for now ;)
+
 <!--
 **dzh-a-v/dzh-a-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
