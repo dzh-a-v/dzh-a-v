@@ -5,8 +5,8 @@ There are not really many projects of mine on GitHub, but I hope there will be m
 - 🔭 I'm a student of **Peter the Great St. Petersburg Polytechnic University**.
 - 👨‍💻 **Computer Science** and **AI** are my future job...
 - ✨ I want to start my career in 2026 and have the opportunity to travel in a few years!
-- ⚡ I'm an ambassador of the _**IT Cluster at Gazprom Neft**_.
-- 💬 I ~also hope to become~ am a member of IT department  of _**EESTEC**_.
+- ⚡ I'm an ambassador of the **IT Cluster at Gazprom Neft**.
+- 💬 I am a member of IT department of **EESTEC**.
 
 If you want to contact me, I've got some links in my profile, check them out ;)
 
