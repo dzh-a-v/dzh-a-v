@@ -13,7 +13,7 @@ If you want to contact me, I've got some links in my profile, check them out ;)
 ___
 **Disclaimer**
 
-I am not responsible for how third parties may use anything in my profile.
+I am not responsible for how third parties may use anything from my profile, repositories etc.
 
 <!--
 **dzh-a-v/dzh-a-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
