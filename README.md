@@ -11,7 +11,8 @@ There are not really many projects of mine on GitHub, but I hope there will be m
 If you want to contact me, I've got some links in my profile, check them out ;)
 
 ___
-**Disclaimer** 
+**Disclaimer**
+
 I am not responsible for how third parties may use educational materials in my profile.
 
 <!--
