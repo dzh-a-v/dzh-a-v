@@ -8,7 +8,7 @@ There are not really many projects of mine on GitHub, but I hope there will be m
 - ⚡ I'm an ambassador of the **IT Cluster at Gazprom Neft**.
 - 💬 I am a member of IT department of **EESTEC**.
 
-If you want to contact me, I've got some links in my profile, check them out ;)
+If you want to contact me, I've got some links in my profile ;)
 
 ___
 **Disclaimer**
