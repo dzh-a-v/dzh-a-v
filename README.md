@@ -15,7 +15,7 @@ Passionate about space -- would be thrilled to help with space-related software.
 ___
 **Disclaimer**
 
-I am not responsible for how third parties may use anything from my profile, repositories etc.
+I am not responsible for how third parties may use anything from my profile, repositories, etc.
 
 <!--
 **dzh-a-v/dzh-a-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
