@@ -6,10 +6,10 @@ There are not really many projects of mine on GitHub, but I hope there will be m
 - 👨‍💻 **Computer Science** and **AI** are my future job...
 - ✨ I want to start my career in 2026 and have the opportunity to travel in a few years!
 - ⚡ I'm an ambassador of the **IT Cluster at Gazprom Neft**.
-- 💬 I am a member of IT department of **EESTEC**.
+- 💻 I am a member of IT department of **EESTEC**.
+- ㊗️ Translator sometimes ;)
 
-If you want to contact me, I've got some links in my profile ;)
-
+If you need some help of a certified vibe-coder, you've got my links :P
 ___
 **Disclaimer**
 
