@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-There are not really many projects of mine on GitHub, but I hope there will be more of them soon! :) *I have sth to show......)*
+There are not really many projects of mine on GitHub, but I hope there will be more of them soon! :)
 
 - 🔭 I'm a student of **Peter the Great St. Petersburg Polytechnic University**.
 - 👨‍💻 **Computer Science** and **AI** are my future job...
