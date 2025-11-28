@@ -11,7 +11,7 @@ There are not really many projects of mine on GitHub, but I hope there will be m
 
 If you need some help of a certified vibe-coder, you've got my links :P
 
-Also I would love to join space apps projects!
+Passionate about space -- would be thrilled to help build tools for exploring the cosmos.
 ___
 **Disclaimer**
 
