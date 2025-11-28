@@ -10,6 +10,7 @@ There are not really many projects of mine on GitHub, but I hope there will be m
 - ㊗️ Translator sometimes ;)
 
 If you need some help of a certified vibe-coder, you've got my links :P
+Also I would love to join space apps projects!
 ___
 **Disclaimer**
 
