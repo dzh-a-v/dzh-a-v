@@ -11,11 +11,7 @@ There are not really many projects of mine on GitHub, but I hope there will be m
 
 If you need some help of a certified vibe-coder, you've got my links :P
 
-Passionate about space -- would be thrilled to help with space-related software.
-___
-**Disclaimer**
-
-I am not responsible for how third parties may use anything from my profile, repositories, etc.
+Passionate about space -- would be thrilled to help with space-related software
 
 <!--
 **dzh-a-v/dzh-a-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
