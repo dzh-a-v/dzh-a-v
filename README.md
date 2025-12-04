@@ -13,6 +13,10 @@ If you need some help of a certified vibe-coder, you've got my links :P
 
 **Passionate about space** -- would be thrilled to help with space-related software
 
+# My projects
+
+A program for calculating the interactions of bodies through gravity -- https://github.com/dzh-a-v/body-gravity-simulation.git
+
 <!--
 **dzh-a-v/dzh-a-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
