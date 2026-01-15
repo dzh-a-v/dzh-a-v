@@ -5,6 +5,7 @@
 - ✨ I want to start my career in 2026 and have the opportunity to travel in a few years!
 - ⚡ I'm an ambassador of the **IT Cluster at Gazprom Neft**.
 - 💻 I am a member of IT department of **EESTEC**.
+- 🔢 Math teacher | International curriculum specialist.
 - ㊗️ Translator sometimes ;)
 
 If you need some help of a certified vibe-coder, you've got my links :P
