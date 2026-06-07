@@ -39,6 +39,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" />
 </p>
 
+---
+
+<h2 align="center"> Currently learning </h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="48" />
+</p>
+
 <!--
 if ur reading this, pls hire me
 -->
