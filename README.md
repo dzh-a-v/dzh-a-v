@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  I'm Arsen, a Computer Science student interested in machine learning, graphics, simulations, and space.
+  I'm Arsen, a Computer Science student. I enjoy building software projects in my spare time and would love to work in a team.
 </p>
 
 ---
