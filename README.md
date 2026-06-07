@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" />
 </p>
 
+---
+
 <h2 align="center">Also work with</h3>
 
 <p align="center">
